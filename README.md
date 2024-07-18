@@ -11,9 +11,12 @@ Primarily inspired by the work of [@AkiyoshiKitaoka](https://x.com/AkiyoshiKitao
 <br>
 Example:
 
-greyscale
-<img src='./images/'>
+![greyscale image](images/brazil_nt_grayscaled.png)
 
+![lines](images/brazil_nt_lines.png)
+
+result:
+![result](images/result.png)
 </details>
 
 <br>
@@ -29,5 +32,5 @@ See [color_assimilation.ipynb](./color_assimilation.ipynb) for code.
 
 ## Acknowledgements
 
- - [What are expected goals (xG)? ](https://theanalyst.com/na/2021/07/what-are-expected-goals-xg/)
- - [How to Build An Expected Goals Model](https://www.youtube.com/watch?v=bpjLyFyLlXs&t=1201s)
+ - [@AkiyoshiKitaoka](https://x.com/AkiyoshiKitaoka)
+ - [The effect of luminance differences on color assimilation ](https://jov.arvojournals.org/article.aspx?articleid=2707505)
