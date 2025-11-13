@@ -1,7 +1,7 @@
 
 # Color Assimilation 
 
-An exploratory project into color assimilation optical illusions still a work in progress.
+An exploratory project for the study of color assimilation still a work in progress.
 
 <details open>
 <summary> <font size = 4> Motivation </font> </summary>
